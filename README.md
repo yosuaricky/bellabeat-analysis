@@ -1,4 +1,4 @@
-# Data analysis on 'Bellabeat', a high-tech manufacturer of health-focused products for women
+# Data analysis for Bellabeat, a high-tech manufacturer of health-focused products for women
 
 ## Introduction
 
